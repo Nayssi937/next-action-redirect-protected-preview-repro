@@ -1,0 +1,13 @@
+{
+  "name": "next-action-redirect-protected-preview-repro",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "16.5.0-canary.55",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  }
+}
